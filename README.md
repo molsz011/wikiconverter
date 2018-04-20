@@ -20,6 +20,9 @@
 * Python (ver. 3.6 or above) and SQLAlchemy library (https://www.sqlalchemy.org/)
 
 ##### Usage:
+
+The application is launched by executing the gui.py script:
+
 ![alt text](https://github.com/molsz011/wikiconverter/blob/master/media/gui.png "GUI")
 
 1. __Admin username__ – the username of the administrator account of the database system with read and write access to the databases of both source and destination wikis
